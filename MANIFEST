@@ -1,0 +1,15 @@
+Changes
+lib/TIGR/FASTA/Grammar.pm
+lib/TIGR/FASTA/Iterator.pm
+lib/TIGR/FASTA/Reader.pm
+lib/TIGR/FASTA/Record.pm
+lib/TIGR/FASTA/Writer.pm
+lib/TIGR/Foundation.pm
+lib/TIGR/HmmTools.pm
+Makefile.PL
+MANIFEST			This list of files
+README
+t/00-load.t
+t/manifest.t
+t/pod-coverage.t
+t/pod.t

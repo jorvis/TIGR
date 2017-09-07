@@ -29,7 +29,7 @@ WriteMakefile(
         provides => {
             'TIGR' => {
                 file => 'Provides.pm.PL',
-                version => '0.02',
+                version => '0.03',
             },
         },
     },
